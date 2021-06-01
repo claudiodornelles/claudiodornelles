@@ -6,4 +6,5 @@ industry.
 I am currently looking for a branching out
 opportunity, enrolled in a System Analysis and Development course, aiming to
 improve my tech skills and pursue a new path in the technologic field.
+---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiodornelles&count_private=true&show_icons=true&theme=react)](https://github.com/claudiodornelles/github-readme-stats)
