@@ -1,9 +1,8 @@
 ### Hi there, I'm Claudio!
-I am a bilingual (Portuguese and English) professional with a BSc in Civil
+- I am a bilingual (Portuguese and English) professional with a BSc in Civil
 Engineering and 3 years of experience in costs control under the construction
 industry.
----
-I am currently looking for a branching out
+- I am currently looking for a branching out
 opportunity, enrolled in a System Analysis and Development course, aiming to
 improve my tech skills and pursue a new path in the technologic field.
 ---
