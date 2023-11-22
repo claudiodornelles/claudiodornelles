@@ -3,4 +3,4 @@
 <p>Dedicated to becoming a senior software engineer who ensures exceptional user experiences by delivering high-performing, maintainable applications. Striving to be a trusted technical resource and team leader, fostering strong communication with both technical and managerial stakeholders.</p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodornelles&theme=react&layout=compact)](https://github.com/claudiodornelles/claudiodornelles)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodornelles&theme=react&layout=compact)](https://github.com/claudiodornelles)
