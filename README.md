@@ -1,5 +1,6 @@
 ### Hi there, I'm Claudio!
-- I am a bilingual (Portuguese and English) Java Back-End Developer with nearly 2 years of experience working with multiple technologies around the web development field. I also have a BSc in Civil Engineering and 3 years of experience in costs control under the construction industry. As a technology enthusiast, I have branched out to the technology field in 2021 in search for an opportunity to use the passion that I have to use new tools to reduce time spent on daily tasks to improve time management and optimize data analysis and decision-making.
+  <p>Results-driven Backend Software Engineer with almost 3 years of experience, specializing in Java and SpringBoot development. Adept at designing scalable backend systems, optimizing performance, and maintaining clean, efficient code. Enthusiastic advocate of SOLID principles, clean architecture, and comprehensive test coverage. Strong communicator and fast learner, capable of bridging the gap between technical and non-technical stakeholders.</p>
+<p>Dedicated to becoming a senior software engineer who ensures exceptional user experiences by delivering high-performing, maintainable applications. Striving to be a trusted technical resource and team leader, fostering strong communication with both technical and managerial stakeholders.</p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodornelles&theme=react&layout=compact)](https://github.com/claudiodornelles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodornelles&theme=react&layout=compact)](https://github.com/claudiodornelles/claudiodornelles)
